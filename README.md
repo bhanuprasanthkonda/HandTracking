@@ -1,9 +1,9 @@
 # HandTracking
 
 ***
-use python 3.7 for mediapipe to work
+use python 3.8.0 for mediapipe to work
 ***
 
-pip install opencv-python
+pip3 install opencv-python
 
-pip install mediapipe
+pip3 install mediapipe
